@@ -32,5 +32,4 @@ management skills gained through my work experience over 3 years. Recently certi
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nkosanamolefe&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nkosanamolefe&show_icons=true&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nkosanamolefe&layout=compact&theme=radical)
