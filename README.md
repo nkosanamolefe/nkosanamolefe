@@ -18,7 +18,7 @@ management skills gained through my work experience over 3 years. Recently certi
 
 <!-- 🔭 I’m currently working on Portfolio Website -->
 
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently enhancing my knowledge of SQL and Python.
 
 ## Key Project
 
