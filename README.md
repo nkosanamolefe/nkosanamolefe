@@ -3,8 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40nkosana-239a3b.svg)](https://github.com/nkosanamolefe)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/gn-molefe/)
 
-I am enthusiastic about using data and AI to solve challenging business problems across industries. With strong background in project
-management skills gained through my work experience over 3 years. Recently certified as an Associate Data Analyst from Datacamp.
+I am a data enthusiast with a passion for leveraging data and AI to solve complex business challenges across industries. With over three years of experience combining project management and analytics, I bring a unique blend of organizational leadership and technical expertise to every project. My recent certification as an [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0018224841110) has strengthened my ability to extract insights, tell compelling stories with data, and deliver actionable solutions.
+
+What excites me most about my work is the opportunity to uncover hidden patterns, optimize processes, and drive impactful decision-making using data. I am inspired by the potential of data science and machine learning to transform industries and create innovative solutions to real-world problems. My goal is to continually expand my technical expertise while contributing to projects that make a meaningful difference for businesses and communities.
 
 ## Skill Set
 
