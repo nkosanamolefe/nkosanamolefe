@@ -18,11 +18,13 @@ management skills gained through my work experience over 3 years. Recently certi
 
 <!-- 🔭 I’m currently working on Portfolio Website -->
 
-- 🌱 I’m currently enhancing my knowledge of SQL and Python.
+- 🌱 I am currently improving my skills in SQL and Python..
 
 ## Key Project
 
-- 
+- [Airbnb Cape Town Data Analysis](https://github.com/nkosanamolefe/sql/tree/main/AirBnB)
+- [Analyzing Students' Mental Health in SQL](https://github.com/nkosanamolefe/sql/blob/main/student-mental-health/analyzing%20students%20mental%20health.ipynb)
+- [PowerBI HR Dashboard using SQL and Power Bi](https://github.com/nkosanamolefe/data-visualization/tree/main/HR)
 
 ## 📫 Let's Connect
 
@@ -32,4 +34,5 @@ management skills gained through my work experience over 3 years. Recently certi
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nkosanamolefe&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nkosanamolefe&layout=compact&theme=radical)
