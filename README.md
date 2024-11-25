@@ -19,7 +19,7 @@ What excites me most about my work is the opportunity to uncover hidden patterns
 
 <!-- 🔭 I’m currently working on Portfolio Website -->
 
-- 🌱 I am currently improving my skills in SQL and Python..
+- 🌱 I am currently improving my skills in SQL and Python.
 
 ## Key Project
 
