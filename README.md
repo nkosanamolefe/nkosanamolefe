@@ -19,7 +19,7 @@ What excites me most about my work is the opportunity to uncover hidden patterns
 
 <!-- 🔭 I’m currently working on Portfolio Website -->
 
-- 🌱 I am currently improving my skills in SQL and Python.
+- I am currently improving my skills in SQL and Python.
 
 ## Key Project
 
@@ -27,12 +27,12 @@ What excites me most about my work is the opportunity to uncover hidden patterns
 - [Analyzing Students' Mental Health in SQL](https://github.com/nkosanamolefe/sql/blob/main/student-mental-health/analyzing%20students%20mental%20health.ipynb)
 - [PowerBI HR Dashboard using SQL and Power Bi](https://github.com/nkosanamolefe/data-visualization/tree/main/HR)
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/gn-molefe)
 - [Email](mailto:nkosanamolefe7@gmail.com)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nkosanamolefe&theme=radical)
 
