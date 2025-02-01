@@ -24,6 +24,7 @@ What excites me most about my work is the opportunity to uncover hidden patterns
 ## Key Project
 
 - [Customer Churn Analysis with SQL and Tableau](https://github.com/nkosanamolefe/customer-churn-analysis-with-sql-and-tableau)
+- [Net Revenue Management in Excel](https://github.com/nkosanamolefe/excel/tree/main/HealthMax)
 - [Cape Town Airbnb Insights](https://github.com/nkosanamolefe/sql/tree/main/AirBnB)
 - [Analyzing Students' Mental Health in SQL](https://github.com/nkosanamolefe/sql/blob/main/student-mental-health/analyzing%20students%20mental%20health.ipynb)
 
