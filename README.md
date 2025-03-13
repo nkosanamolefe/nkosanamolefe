@@ -9,17 +9,11 @@ What excites me most about my work is the opportunity to uncover hidden patterns
 
 ## Skill Set
 
-- Technical Stack: Python, SQL, Git, Power BI, Excel, VSCode and Jupter
+- Technical Stack: Python, SQL, Git, Power BI, Excel, VSCode, Jupter, Flutter and dart
 
 - Libraries: Pandas, Numpy, Matplotlib, Scipy
 
 - Soft Skills: Project Management, Team Collaboration, Creativity and Problem Solving
-
-## Current engagements
-
-<!-- 🔭 I’m currently working on Portfolio Website -->
-
-- I am currently improving my skills in SQL and Python.
 
 ## Key Project
 
